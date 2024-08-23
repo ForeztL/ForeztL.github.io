@@ -1,0 +1,22 @@
+.hello {
+    height: 300px;
+    width: 200px;
+    background-color: red;
+    display: inline-block;
+}
+.sk {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    color: white;
+    display: inline-block;
+}
+
+.HI {
+    height: 200px;
+    width: 50px;
+    background-color: yellow;
+    color: white;
+    border:  solid red 3px;
+    display: inline-block;
+}
